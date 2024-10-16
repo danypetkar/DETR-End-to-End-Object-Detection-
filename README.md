@@ -48,6 +48,6 @@ The model was trained for 300 epochs on 16 V100 GPUs. This takes 3 days, with 4 
 
 This model achieves an AP (average precision) of 42.0 on COCO 2017 validation. For more details regarding evaluation results, we refer to table 1 of the original paper.
 
-## output
+## Output
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/danypetkar/DETR-End-to-End-Object-Detection-/blob/main/10_pactical_output.PNG)
